@@ -8,7 +8,7 @@
 
 ## 일정
 (발표 순서 : 매주 추첨)
-* 1주차(2023/04/12) : [**2장 MongoDB - ch01 MongoDB 개요~ ch02 MongoDB Atlas 소개 및 환경 구축**](https://github.com/hmg0616/refactoring-study/issues/1), 발표자 : 김유진
+* 1주차(2023/04/12) : [**2장 MongoDB - ch01 MongoDB 개요~ ch02 MongoDB Atlas 소개 및 환경 구축**](https://github.com/hmg0616/factcampus_backend_study/issues/1), 발표자 : 김유진
 
 > 종료 후 책거리 및 추후 스터디 진행 도서 선정 예정
 
