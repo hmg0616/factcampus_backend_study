@@ -10,7 +10,8 @@
 (발표 순서 : 매주 추첨)
 * 1주차(2023/04/12) : [**2장 MongoDB - ch01 MongoDB 개요~ ch02 MongoDB Atlas 소개 및 환경 구축**](https://github.com/hmg0616/factcampus_backend_study/issues/1), 발표자 : 김유진
 * 2주차(2023/04/19) : [**2장 MongoDB - ch03. Document Query 실습**](https://github.com/hmg0616/factcampus_backend_study/issues/2), 발표자 : 권동희
-* 3주차(2023/04/26) : [**2장 MongoDB - ch04. 읽기와 쓰기에 대한 제어 ~ Ch 05. MongoDB의 다양한 Index**](https://github.com/hmg0616/factcampus_backend_study/issues/3), 발표자 : 권동희
+* 3주차(2023/04/26) : [**2장 MongoDB - ch04. 읽기와 쓰기에 대한 제어 ~ Ch05. MongoDB의 다양한 Index**](https://github.com/hmg0616/factcampus_backend_study/issues/3), 발표자 : 권동희
+* 4주차(2023/05/3) : [**2장 MongoDB - ch06. Advanced Querying ~ Ch07. Query 성능 분석**](https://github.com/hmg0616/factcampus_backend_study/issues/4), 발표자 : 
 
 > 종료 후 책거리 및 추후 스터디 진행 도서 선정 예정
 
