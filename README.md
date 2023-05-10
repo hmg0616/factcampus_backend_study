@@ -22,7 +22,8 @@
 
 ## 목차
 
-## 2장 MongoDB
+* 2장 MongoDB
+```
 ch01. MongoDB 개요
 ch02. MongoDB Atlas 소개 및 환경 구축
 ch03. Document Query 실습
@@ -33,3 +34,4 @@ Ch07. Query 성능 분석
 ch08. MongoDB와 대용량 데이터
 ch09. Data Migration
 ch10. Schema Modeling
+```
