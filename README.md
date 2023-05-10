@@ -12,7 +12,7 @@
 * 2주차(2023/04/19) : [**2장 MongoDB - ch03. Document Query 실습**](https://github.com/hmg0616/factcampus_backend_study/issues/2), 발표자 : 권동희
 * 3주차(2023/04/26) : [**2장 MongoDB - ch04. 읽기와 쓰기에 대한 제어 ~ Ch05. MongoDB의 다양한 Index**](https://github.com/hmg0616/factcampus_backend_study/issues/3), 발표자 : 권동희
 * 4주차(2023/05/3) : [**2장 MongoDB - ch06. Advanced Querying ~ Ch07. Query 성능 분석**](https://github.com/hmg0616/factcampus_backend_study/issues/4), 발표자 : 한문규
-* 4주차(2023/05/3) : [**2장 MongoDB - ch08. MongoDB와 대용량 데이터 ~ Ch10. Schema Modeling(10.2까지)**](https://github.com/hmg0616/factcampus_backend_study/issues/5), 발표자 : 
+* 4주차(2023/05/3) : [**2장 MongoDB - ch08. MongoDB와 대용량 데이터 ~ Ch10. Schema Modeling(10.2까지)**](https://github.com/hmg0616/factcampus_backend_study/issues/5), 발표자 : 정서원
 
 > 종료 후 책거리 및 추후 스터디 진행 도서 선정 예정
 
