@@ -38,3 +38,15 @@ ch08. MongoDB와 대용량 데이터
 ch09. Data Migration
 ch10. Schema Modeling
 ```
+
+* 3장 Redis
+```
+Ch 00. 강의소개
+Ch 01. Redis 소개와 특징
+Ch 02. NoSQL과 Redis
+Ch 03. Redis 설치와 실습
+Ch 04. Redis Data Type의 이해
+Ch 05. Redis 개발 실습
+Ch 06. 분산 환경에서의 세션 스토어 만들기
+
+```
