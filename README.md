@@ -15,7 +15,7 @@
 * 5주차(2023/05/10) : [**2장 MongoDB - ch08. MongoDB와 대용량 데이터 ~ Ch10. Schema Modeling(10.2까지)**](https://github.com/hmg0616/factcampus_backend_study/issues/5), 발표자 : 정서원
 * 6주차(2023/05/17) : [**2장 MongoDB - ch10. Schema Modeling(10.3부터) ~ 3장 Redis Ch 01. Redis 소개와 특징**](https://github.com/hmg0616/factcampus_backend_study/issues/6), 발표자 : 김유진
 * 7주차(2023/05/24) : [**3장 Redis Ch 02. NoSQL과 Redis ~ Ch 06. 분산 환경에서의 세션 스토어 만들기**](https://github.com/hmg0616/factcampus_backend_study/issues/7), 발표자 : 한문규
-* 8주차(2023/05/31) : [**3장 Redis Ch 02. NoSQL과 Redis ~ Ch 06. 분산 환경에서의 세션 스토어 만들기**](https://github.com/hmg0616/factcampus_backend_study/issues/7), 발표자 : 한문규
+* 8주차(2023/05/31) : [**3장 Redis Ch 07. 서비스 속도를 높이는 캐시 레이어 만들기 ~ Ch 09. Pub/Sub을 이용해 손쉽게 채팅방 기능 구현하기**](https://github.com/hmg0616/factcampus_backend_study/issues/8), 발표자 : 한문규
 
 > 종료 후 책거리 및 추후 스터디 진행 도서 선정 예정
 
@@ -24,7 +24,7 @@
 * 4차(2023/05/04) : 김유진, 정서원 (-> 기념품 사오면 봐줌)
 * 5차(2023/05/10) : 김유진
 * 7차(2023/05/17) : 권동희
-* 7차(2023/05/31) : 김유진!!
+* 8차(2023/05/31) : 김유진!!
 
 ## 목차
 
