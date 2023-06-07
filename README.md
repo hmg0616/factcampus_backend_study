@@ -16,6 +16,8 @@
 * 6주차(2023/05/17) : [**2장 MongoDB - ch10. Schema Modeling(10.3부터) ~ 3장 Redis Ch 01. Redis 소개와 특징**](https://github.com/hmg0616/factcampus_backend_study/issues/6), 발표자 : 김유진
 * 7주차(2023/05/24) : [**3장 Redis Ch 02. NoSQL과 Redis ~ Ch 06. 분산 환경에서의 세션 스토어 만들기**](https://github.com/hmg0616/factcampus_backend_study/issues/7), 발표자 : 한문규
 * 8주차(2023/05/31) : [**3장 Redis Ch 07. 서비스 속도를 높이는 캐시 레이어 만들기 ~ Ch 09. Pub/Sub을 이용해 손쉽게 채팅방 기능 구현하기**](https://github.com/hmg0616/factcampus_backend_study/issues/8), 발표자 : 한문규
+* 9주차(2023/06/7) : [**3장 Redis Ch 10. Redis의 백업과 장애 복구 ~ Ch 12. 클러스터 구성 실습**](https://github.com/hmg0616/factcampus_backend_study/issues/9), 발표자 : 김유진
+* 
 
 > 종료 후 책거리 및 추후 스터디 진행 도서 선정 예정
 
