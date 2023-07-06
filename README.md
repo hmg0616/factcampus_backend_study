@@ -17,7 +17,8 @@
 * 7주차(2023/05/24) : [**3장 Redis Ch 02. NoSQL과 Redis ~ Ch 06. 분산 환경에서의 세션 스토어 만들기**](https://github.com/hmg0616/factcampus_backend_study/issues/7), 발표자 : 한문규
 * 8주차(2023/05/31) : [**3장 Redis Ch 07. 서비스 속도를 높이는 캐시 레이어 만들기 ~ Ch 09. Pub/Sub을 이용해 손쉽게 채팅방 기능 구현하기**](https://github.com/hmg0616/factcampus_backend_study/issues/8), 발표자 : 한문규
 * 9주차(2023/06/7) : [**3장 Redis Ch 10. Redis의 백업과 장애 복구 ~ Ch 12. 클러스터 구성 실습**](https://github.com/hmg0616/factcampus_backend_study/issues/9), 발표자 : 김유진
-* 
+* 10주차(2023/06/14) : [**3장 Redis Ch 13. Redis 성능튜닝 ~ Ch 15. 글로벌 서비스를 위한 Active-Active Architecture**](https://github.com/hmg0616/factcampus_backend_study/issues/10), 발표자 : 김유진
+* 10주차(2023/07/6) : [**4장 Redis Ch 10. Redis의 백업과 장애 복구 ~ Ch 12. 클러스터 구성 실습**](https://github.com/hmg0616/factcampus_backend_study/issues/11), 발표자 : 김유진
 
 > 종료 후 책거리 및 추후 스터디 진행 도서 선정 예정
 
@@ -28,6 +29,7 @@
 * 7차(2023/05/17) : 권동희
 * 8차(2023/05/31) : 김유진!!
 * 9차(2023/06/7) : 권동희
+* 10차(2023/07/6) : 권동희
 
 ## 목차
 
