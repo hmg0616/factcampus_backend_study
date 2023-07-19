@@ -19,6 +19,7 @@
 * 9주차(2023/06/7) : [**3장 Redis Ch 10. Redis의 백업과 장애 복구 ~ Ch 12. 클러스터 구성 실습**](https://github.com/hmg0616/factcampus_backend_study/issues/9), 발표자 : 김유진
 * 10주차(2023/06/14) : [**3장 Redis Ch 13. Redis 성능튜닝 ~ Ch 15. 글로벌 서비스를 위한 Active-Active Architecture**](https://github.com/hmg0616/factcampus_backend_study/issues/10), 발표자 : 김유진
 * 11주차(2023/07/6) : [**4장 Kafka Ch 01. 강의 소개 ~ Ch 02. Kafka 학습을 위한 기본 개념의 이해**](https://github.com/hmg0616/factcampus_backend_study/issues/11), 발표자 : 김유진
+* 11주차(2023/07/12) : [**4장 Kafka Ch 03. Java Application에서 Kafka Application 구현 ~ Ch 06. Kafka 프로젝트 실습**](https://github.com/hmg0616/factcampus_backend_study/issues/12), 발표자 : 정서원
 
 > 종료 후 책거리 및 추후 스터디 진행 도서 선정 예정
 
